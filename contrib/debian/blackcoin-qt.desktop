@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=xRadon
+Comment=xRadon P2P Cryptocurrency
+Comment[fr]=xRadon, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=xRadon, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/xRadon-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/xRadon;
+Categories=Office;
