@@ -90,7 +90,7 @@ public:
         assert(hashGenesisBlock == uint256("0x000000770c6aea829bb1ace7b06497f71799a6358e0e292740c4f9443a17bfb6"));
         assert(genesis.hashMerkleRoot == uint256("0xa02b3388d9e8529bb0136ed3e1b823e808cbe128050e5986bf2a5a0d2c71a826"));
 
-        vSeeds.push_back(CDNSSeedData("195.34.100.2", "195.34.100.2"));
+        vSeeds.push_back(CDNSSeedData("rdn.vegetapools.com", "rdn.vegetapools.com"));
 
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of(76);
